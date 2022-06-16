@@ -18,7 +18,7 @@ Please feel free to raise an issue or pull request if you have any queries or su
 
 Welcome to the most exciting and innovative platform to build your blockchain application on **Polygon Blockchain**. Blockchain technology is poised to revolutionise the way the digital world handles data and does business. Be a part of this revolution and get a head start with decentralised application development on Polygon.
 
-This page will act as your guide into the **Polygon Ecosystem**. You'll find links to some useful resources and websites to get you up and started with building on Polygon in particular and Blockchain in general. Feel free to reach out to us on Telegram/Discord.
+This page will act as your guide into the **Polygon Ecosystem**. You'll find links to some useful resources and websites to get you up and started with building on Polygon in particular and Blockchain in general. Feel free to reach out to us on [Telegram](https://t.me/polygonofficial) or [Discord](https://discord.com/invite/tCmCbEff66).
 
 ## **Developer Quick Start**
 
@@ -63,7 +63,7 @@ const web3 = new Web3('https://polygon-mainnet.g.alchemy.com/v2/<your-api-key>')
 
 - **Migrating from Ethereum chain (or any EVM based chain for that matter)**
 
-    Deploy all your smart contracts directly on Polygon chain. You don't have to worry about the underlying architecture, as long as it is EVM compatible!
+    Deploy all your smart contracts directly on Polygon chain. You don't have to worry about the underlying architecture, as long as it is EVM compatible.
 
     [Deploying your dApp on Polygon](https://docs.polygon.technology/docs/integrate/quickstart)
 
@@ -82,8 +82,6 @@ const web3 = new Web3('https://polygon-mainnet.g.alchemy.com/v2/<your-api-key>')
 
     - [Web3js](https://www.dappuniversity.com/articles/web3-js-intro), [Ethers.js](https://docs.ethers.io/v5/),[Remix](https://docs.polygon.technology/docs/develop/remix/), [Truffle](https://docs.polygon.technology/docs/develop/truffle), [Metamask](/docs/develop/metamask/overview), [Arkane](/docs/develop/wallets/arkane/intro)
 - [Develop a dApp using Fauna, Polygon and React](/docs/develop/dapp-fauna-polygon-react)
-- [Integrating Webhooks](https://docs.alchemy.com/alchemy/enhanced-apis/notify-api/using-notify)
-- [Archive Nodes with Debug namespace](https://www.quicknode.com/chains/matic?utm_source=polygon_docs&utm_campaign=ploygon_docs_contract_guide)
 
 **Advanced**
 
@@ -92,6 +90,8 @@ const web3 = new Web3('https://polygon-mainnet.g.alchemy.com/v2/<your-api-key>')
 - [When to use Plasma](https://docs.polygon.technology/docs/home/architecture/security-models)
 - [Moving assets from Mainchain to Polygon chain: the Plasma way](/docs/develop/ethereum-polygon/matic-js/get-started.md)
 - [Swapping Plasma Assets](https://docs.polygon.technology/docs/develop/advanced/swap-assets)
+- [Integrating Webhooks](https://docs.alchemy.com/alchemy/enhanced-apis/notify-api/using-notify)
+- [Archive Nodes with Debug namespace](https://www.quicknode.com/chains/matic?utm_source=polygon_docs&utm_campaign=ploygon_docs_contract_guide)
 
 **Other links**
 
@@ -103,12 +103,10 @@ const web3 = new Web3('https://polygon-mainnet.g.alchemy.com/v2/<your-api-key>')
 ### **Learn the developer tools**
 
 - [CryptoZombies](https://cryptozombies.io/)
-- [Full stack dapp tutorial series](https://kauri.io/#collections/Full%20Stack%20dApp%20Tutorial%20Series/full-stack-dapp-tutorial-series-intro/)
 - [Alchemy (Blockchain APIs and Developer Tools)](https://alchemy.com/?a=polygon-docs)
 - [QuickNode (Multi-chain Blockchain infrastructure)](https://www.quicknode.com/docs/polygon?utm_source=polygon_docs&utm_campaign=ploygon_docs_contract_guide)
 - [Infura Docs](https://infura.io/docs)
 - [Getting Started with Infura and Polygon](https://docs.infura.io/infura/networks/polygon-pos/tutorials/send-a-transaction)
-- [Truffle Suite Docs](https://www.trufflesuite.com/docs) (Recommended)
 - [Truffle tutorial](https://www.trufflesuite.com/tutorial) (Recommended)
 - [Parity Wiki](https://openethereum.github.io/)
 - [Geth docs](https://geth.ethereum.org/)
@@ -168,7 +166,7 @@ Twitter:
 - [MakerDao](https://twitter.com/MakerDAO)
 - [DeFi Pulse](https://twitter.com/defipulse)
 - [DeFi Prime](https://twitter.com/defiprime)
-- [Uniswap](https://twitter.com/UniswapExchange)
+- [Uniswap](https://twitter.com/Uniswap)
 - [Compound](https://twitter.com/compoundfinance)
 - [Gnosis](https://twitter.com/gnosisPM)
 - [Nexus Mutual](https://twitter.com/NexusMutual)
@@ -184,7 +182,6 @@ Twitter:
 - [QuickNode: #Web3Vibes](https://www.getrevue.co/profile/quiknode)
 - [Alchemy: Supercharged](https://www.alchemy.com/newsletter)
 - [EthHub](https://ethhub.io/)
-- [Chain Letter](https://forms.technologyreview.com/chain-letter/)
 - [ConsenSys Newsletter Digest](https://share.hsforms.com/1HiFwsb55S5GUf-EOe0KP8Q2urwb?email=)
 
 ### **Podcasts**
@@ -199,5 +196,5 @@ Twitter:
 
 If this is overwhelming, that’s okay! You can jump right into the fire and start hacking. Here are a few pointers before you start diving into resources, repositories, and documentation.
 
-1. **Beware the cost of being on the bleeding edge** More so than typical niche programming, dapp and blockchain development moves very quickly. Deep into learning, you may find complex code repositories, 404s on a documentation site, or, perhaps, no documentation at all. Rather than seeing this as a deterrent, see it as an invitation to a **Opportunity**. Ping on our developer channel, find the Discord / Gitter / Telegram channel, post on Stack Overflow or Reddit — you may be surprised at the rate of response and openness of the community.
+1. **Beware the cost of being on the bleeding edge.** More so than typical niche programming, dapp and blockchain development moves very quickly. Deep into learning, you may find complex code repositories, 404s on a documentation site, or, perhaps, no documentation at all. Rather than seeing this as a deterrent, see it as an invitation to an **Opportunity**. Ping on our developer channel, find the Discord / Gitter / Telegram channel, post on Stack Overflow or Reddit — you may be surprised at the rate of response and openness of the community.
 2. **The learning curve may be daunting, but the barrier to entry is low**. All communities have their grumps, of course, but if you do the work, put in the effort, it will be noticed. Projects welcome pull requests from outsiders and support will be there if you’ve exhausted every other resource. We’re working on creating a better world and can use all the help we can get. We’re just glad you’re here.
